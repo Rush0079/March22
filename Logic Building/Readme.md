@@ -35,9 +35,13 @@ Algorithm:
 Qualities of a good Algorithm:
 ------------------------------
   -definite
+  
   -clarity
+  
   -unambiguous
+  
   -efficient
+  
   -Simple & convinient	
 	
 2.Program Building
@@ -45,7 +49,10 @@ Qualities of a good Algorithm:
 -------------------------------------------------------------
 
 Programming Language:Java
+
 Installation : JDK 1.8/11/15/17
+
 Editor: Notepad++
+
 Execution : cmd prompt
 
