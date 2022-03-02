@@ -55,6 +55,7 @@ Assignment Operator:
 	
 Basic Information:
 --------------------
+
 1 byte = 8 bits
 1KB = 1024 bytes => 2^10
 1MB = 1024 * 1024 bytes	=> 2^20
@@ -64,8 +65,14 @@ Basic Information:
 1EB(exabyte) = ?	
 
 Home work : Summary of Primitive Data Type:
--------------------------------
+--------------------------------------------
+
 Data type
+
 size
+
 default value
+
 range
+
+Wrapper class
